@@ -12,3 +12,18 @@ We believe that data driven solutions can greatly improve the bedrock of any bus
 The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualization.
 
 ## Business Questions
+1. What were the least and most ordered items? What categories were they in?
+   
+2.What do the highest spend orders look like? Which items did they buy and how much did they spend?
+
+3. Were there certain times that had more or less orders?
+
+4. Which cuisines should we focus on developing more menu items for based on the data?
+
+## Tools
+- Excel
+- MySQL
+- Tableau
+
+
+
