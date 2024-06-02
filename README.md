@@ -26,6 +26,8 @@ The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualiz
 - Tableau
 
 ## Source Data
+The source file was gotten from the restaurant Excel database system.
+
 ### Order Table
 
 <img width="485" alt="Screen Shot 2024-06-02 at 7 02 53 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/86a0eac9-93bc-422e-b78e-48802f595a59">
@@ -50,6 +52,14 @@ OR price = (SELECT MAX(price) FROM menu_items);
 
 ## Tableau Dashboard
 
-![alt text] <img width="881" alt="Screen Shot 2024-05-25 at 7 18 59 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/4a927b4e-a5a7-4545-8300-dd62a640deac">
+<img width="881" alt="Screen Shot 2024-05-25 at 7 18 59 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/4a927b4e-a5a7-4545-8300-dd62a640deac">
 
+### [title](https://www.example.com)
+## Findings and Recommendations
 
+1. Data collection needs to be improved on, from the front to back end of the restaurants daily operations.
+2. Data should be collected in real time from the POS system and linked into the restaurant accounting software.
+3. Some menu items that are underperforming and should be changed or taken out of the menu completely.
+4. The chef should be included, to take a look at the menu to optimize its performance financially.
+5. Inventory tracking will enable the exact cost of goods sold, so this process should be paired with kitchen management system to keep a check on wastage, loss and portion control.
+6. Top performing staffs should be encouraged and overall motivation would increase ROI and keeps your guest happy.
