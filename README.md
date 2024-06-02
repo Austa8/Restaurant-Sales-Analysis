@@ -1,7 +1,7 @@
 # Restaurant-Sales-Analysis
 
 ## Project Overview
-This project aims to analyze the sales performance of a restaurant within a timeframe based on certain criteria and category of menu cuisines, to provide data driven solution for business decisions 
+This project aims to analyze the sales performance of a restaurant within a timeframe based on certain criteria like category of menu cuisines, to provide data driven solution for business decisions. 
 
 ## Business Model
 - Research:
@@ -25,5 +25,6 @@ The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualiz
 - MySQL
 - Tableau
 
+## MySQL Script and Output
 
 
