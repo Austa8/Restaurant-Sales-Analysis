@@ -26,8 +26,8 @@ The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualiz
 - Tableau
 
 ## Source Data
+### Menu Table
 
-Menu Table
 (<img width="485" alt="Screen Shot 2024-06-02 at 7 02 53 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/86a0eac9-93bc-422e-b78e-48802f595a59">)
 
 
