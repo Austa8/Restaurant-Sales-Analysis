@@ -26,13 +26,13 @@ The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualiz
 - Tableau
 
 ## Source Data
-### Menu Table
-
-(<img width="485" alt="Screen Shot 2024-06-02 at 7 02 53 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/86a0eac9-93bc-422e-b78e-48802f595a59">)
-
 ### Order Table
 
-(<img width="384" alt="Screen Shot 2024-06-02 at 7 27 52 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8ea4b13b-b737-4748-a6b2-a2e18da57cd3">)
+<img width="485" alt="Screen Shot 2024-06-02 at 7 02 53 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/86a0eac9-93bc-422e-b78e-48802f595a59">
+
+### Menu Table
+
+<img width="384" alt="Screen Shot 2024-06-02 at 7 27 52 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8ea4b13b-b737-4748-a6b2-a2e18da57cd3">
 
 
 
