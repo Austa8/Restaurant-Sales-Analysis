@@ -28,10 +28,11 @@ The tools used for this analysis are, MySQL, PowerPoint and Tableau for visualiz
 ## MySQL Script and Output
 
 ```
--- 2. What are the least and most expensive items on the menu{
+-- 2. What are the least and most expensive items on the menu
+{
 SELECT item_name, price FROM menu_items
 WHERE price = (SELECT MIN(price) FROM menu_items)
 OR price = (SELECT MAX(price) FROM menu_items);
 }
 ```
-![Least and Most Ordered Item](img width="389" alt="Screen Shot 2024-06-02 at 6 51 46 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8a4a89cf-bcb8-465a-920f-b7d954c6a96a")
+!Least and Most Ordered Item(<img width="389" alt="Screen Shot 2024-06-02 at 6 51 46 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8a4a89cf-bcb8-465a-920f-b7d954c6a96a">)
