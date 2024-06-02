@@ -46,4 +46,10 @@ WHERE price = (SELECT MIN(price) FROM menu_items)
 OR price = (SELECT MAX(price) FROM menu_items);
 }
 ```
-(<img width="389" alt="Screen Shot 2024-06-02 at 6 51 46 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8a4a89cf-bcb8-465a-920f-b7d954c6a96a">)
+<img width="389" alt="Screen Shot 2024-06-02 at 6 51 46 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/8a4a89cf-bcb8-465a-920f-b7d954c6a96a">
+
+## Tableau Dashboard
+
+![alt text] <img width="881" alt="Screen Shot 2024-05-25 at 7 18 59 PM" src="https://github.com/Austa8/Restaurant-Sales-Analysis/assets/142371168/4a927b4e-a5a7-4545-8300-dd62a640deac">
+
+
